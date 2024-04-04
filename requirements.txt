@@ -1,0 +1,8 @@
+aiogram==3.4.1
+aiosqlite==0.20.0
+async-fastapi-jwt-auth==0.6.4
+fastapi==0.110.0
+peewee==3.17.0
+peewee-aio==1.7.4
+uvicorn==0.24.0.post1
+pyotp
